@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^1.7.2"
+    "moment": "^2.29.1"
   },
   "devDependencies": {
     "cfonts": "^2.9.3"
